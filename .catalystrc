@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "1795000000007001",
+      "name": "trail1",
+      "domain": {
+        "id": "50010683881",
+        "name": "trail1-60016585869.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "60016585869",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

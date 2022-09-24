@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "trail_1_function",
+		"stack": "node16",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

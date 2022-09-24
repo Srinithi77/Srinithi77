@@ -1,0 +1,9 @@
+{
+	"name": "trail_1_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "201401053@rajalakshmi.edu.in",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}

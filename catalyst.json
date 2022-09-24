@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "trail_1_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
